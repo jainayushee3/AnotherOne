@@ -1,0 +1,7 @@
+W:\Specialization\Day2_Question\AnotherOne\AnotherOne\bin\Debug\AnotherOne.exe.config
+W:\Specialization\Day2_Question\AnotherOne\AnotherOne\bin\Debug\AnotherOne.exe
+W:\Specialization\Day2_Question\AnotherOne\AnotherOne\bin\Debug\AnotherOne.pdb
+W:\Specialization\Day2_Question\AnotherOne\AnotherOne\obj\Debug\AnotherOne.csprojAssemblyReference.cache
+W:\Specialization\Day2_Question\AnotherOne\AnotherOne\obj\Debug\AnotherOne.csproj.CoreCompileInputs.cache
+W:\Specialization\Day2_Question\AnotherOne\AnotherOne\obj\Debug\AnotherOne.exe
+W:\Specialization\Day2_Question\AnotherOne\AnotherOne\obj\Debug\AnotherOne.pdb
